@@ -1,0 +1,28 @@
+.DS_Store
+
+# Images
+images/avatars/
+images/captchas/
+images/smileys/
+images/member_photos/
+images/signature_attachments/
+images/pm_attachments/
+images/uploads/\*
+images/uploads
+images/
+images/uploads/*
+images/uploads/.gitkeep
+
+# Caches
+nhmin/user/cache/
+nhmin/user/cache/\*
+nhmin/user/cache/*
+nhmin/user/cache/current_version
+sized/
+thumbs/
+_thumbs/
+*/expressionengine/cache/*
+
+# Multi Environment Config
+nhmin/user/config/config.local.php
+LocalValetDriver.php
